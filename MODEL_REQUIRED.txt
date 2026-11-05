@@ -1,0 +1,1 @@
+Run NLP_PR1.ipynb through Task 6.7 to generate sentiment_model.joblib. A trained model is not pre-created because its fitted vocabulary and scores must come from your actual training run.
